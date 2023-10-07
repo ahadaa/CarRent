@@ -1,0 +1,17 @@
+Vehicle_id;Model;model_year;price_Inhour;availabilty
+1004;Chevy;1992;30;5
+1007;honda;1990;15;10
+1009;hondaac;1994;14;2
+1011;hafd;1993;30;3
+1013;Ford;2009;50;15
+1014;Toyota;2010;47;14
+1016;Benz;2012;36;6
+1017;Honda City;1990;14;7
+1020;Ferrari;1992;59;3
+1022;Porsche;2014;14;3
+1027;BMW;2011;10;1
+1030;Jaguar;1991;36;12
+1032;Buggaati;1993;14;17
+1033;Porche;2014;87;2
+1034;Volvo;2017;37;3
+1035;Chevrolet;1998;100;2
